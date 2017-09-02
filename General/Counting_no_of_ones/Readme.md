@@ -19,7 +19,7 @@ for (c = 0; v; c++)
 }
 ```
 This approach is better as only set bits are counted instead of all the bits<br>
-You can do this by using LookUp table(LUT)/Index Mapping/Trivial hash function<br>
+# The best method is by using  LookUp table(LUT)/Index_Mapping/Trivial_hash_function(all mean the same)<br>
 ```C
 unsigned int v; // count the number of bits set in 32-bit value v
 unsigned int c; // c is the total bits set in v
