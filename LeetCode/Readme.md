@@ -1,2 +1,2 @@
-Examples done on leetcode
-https://github.com/kamyu104/LeetCode
+https://github.com/kamyu104/LeetCode<br>
+https://github.com/csujedihy/lc-all-solutions<br>
